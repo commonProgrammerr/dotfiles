@@ -1,0 +1,8 @@
+{
+    "colorscheme": "dracula",
+    "hltrailingws": true,
+    "tabhighlight": true,
+    "tabsize": 2,
+    "tabstospaces": true,
+    "pluginrepos": ["https://raw.githubusercontent.com/MuratovAS/micro-fzfinder/main/repo.json"],
+}

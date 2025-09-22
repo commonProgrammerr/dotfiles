@@ -1,0 +1,10 @@
+launch --hold fastfetch --raw /Users/joao.alves/.config/motd/motd.bin
+# pikachu
+# launch --hold fastfetch --logo-width 30 --raw /Users/joao.alves/.config/motd/motd.bin
+
+# new_os_window
+# launch kitty_desktop.sh
+
+
+new_os_window
+launch --watcher=desktop_watcher.py kitten panel --listen-on=unix:/tmp/desktop  --edge=background -o background_opacity=0.25 -o background=black  --detach /opt/homebrew/bin/btop

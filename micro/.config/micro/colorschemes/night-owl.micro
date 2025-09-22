@@ -1,0 +1,34 @@
+# Night Owl inspired true-color theme for Micro
+
+# set background dark
+
+color-link default         "#011627,#d6deeb"   # Editor background, default text
+color-link cursorLine      "#1d3b53"           # Current line highlight
+color-link cursorColumn    "#1d3b53"           # Current column highlight
+color-link selection       "#1d3b53,#ffffff"   # Selected text
+color-link gutter          "#011627,#5f7e97"   # Line numbers
+
+color-link error           "#ef5350"           # Error color
+color-link warning         "#ecc48d"           # Warning color
+color-link info            "#82aaff"           # Info color
+
+# Syntax highlighting
+color-link comment         "#637777"           # Comments
+color-link constant        "#d6deeb"           # Constants
+color-link identifier      "#c792ea"           # Variables, identifiers
+color-link type            "#82aaff"           # Types
+color-link statement       "#ff5874"           # Keywords (if, for, etc.)
+color-link preproc         "#7fdbca"           # Preprocessor
+color-link special         "#21c7a8"           # Special (function names)
+color-link string          "#ecc48d"           # Strings
+color-link number          "#f78c6c"           # Numbers
+color-link delimiter       "#d6deeb"           # Delimiters
+color-link function        "#82aaff"           # Function names
+color-link operator        "#c792ea"           # Operators
+
+# UI elements
+color-link statusLine      "#011627,#82aaff"   # Status bar
+color-link errorStatus     "#011627,#ef5350"   # Error status bar
+color-link infoStatus      "#011627,#7fdbca"   # Info status bar
+color-link search          "#1d3b53,#ecc48d"   # Search highlight
+
